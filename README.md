@@ -1,9 +1,11 @@
 # lxd-course-media
 
 Images and audio for LXDStudios eLearning courses, loaded by Rise 360 Code blocks and web objects.
-Course pages link to a fixed version tag through jsDelivr, so later changes never break a live course:
+Course pages link to a fixed version tag, so later changes never break a live course:
 
-    https://cdn.jsdelivr.net/gh/macpjazz/lxd-course-media@<tag>/<course>/<block>/<file>
+    https://raw.githubusercontent.com/macpjazz/lxd-course-media/<tag>/<course>/<block>/<file>
+
+(jsDelivr returned 503 on the mp3 files on 2026-10-15, so courses use GitHub's direct links.)
 
 ## Contents
 
