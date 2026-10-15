@@ -14,5 +14,8 @@ Course pages link to a fixed version tag, so later changes never break a live co
   - v2: adds Ray's talking clips for the same 7 lines (voice built in) and 4 idle loops (upset, angry, guarded,
     relieved). H.264 + AAC, 1280x720, faststart. The stills and mp3s stay as the fallback.
 
+- `hear-calm-connect/rays-visit/` (tag v3): Lesson 4 role-play, the rest of Ray's visit. 15 line clips (R06, R09-R19,
+  P01-P04, voice built in) and 4 idle loops (guarded, angry, relieved, call). H.264 + AAC, 1280x720, faststart.
+
 Characters, places and the city of Westbrook are fictional. Course design by Mark Diaz, LXDStudios.
 https://markdiazlxd.netlify.app/
